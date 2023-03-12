@@ -1,0 +1,7 @@
+require("jj.plugins.nvim-tree")
+require("jj.plugins.icons")
+require("jj.plugins.comment")
+require("jj.plugins-setup")
+require("jj.core.options")
+require("jj.core.colorscheme")
+require("jj.core.keymaps")
