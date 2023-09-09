@@ -1,1 +1,2 @@
-# nvim
+# Neovim
+NeoVIM Config File, Lua.
